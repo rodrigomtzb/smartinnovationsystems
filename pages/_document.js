@@ -7,6 +7,7 @@ export default function Document() {
         {/* OpenGraph */}
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="SMART INNOVATION SYSTEMS" />
+        <meta name="facebook-domain-verification" content="tw4bi6kqwovyrllg3vtqzhe8qs52ai" />
         <meta property="og:title" content="SMART INNOVATION SYSTEMS | Software Empresarial" />
         <meta
           property="og:description"
