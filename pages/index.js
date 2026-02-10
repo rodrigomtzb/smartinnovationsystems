@@ -204,7 +204,7 @@ export default function Home() {
             <h2>Contacto</h2>
             <p>Agenda una llamada y obtén un diagnóstico gratuito.</p>
             <a
-              href="https://wa.me/521XXXXXXXXXX"
+              href="https://wa.me/5215656196693"
               target="_blank"
               rel="noopener noreferrer"
               className="cta-primary"
