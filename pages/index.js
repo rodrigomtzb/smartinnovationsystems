@@ -189,7 +189,7 @@ export default function Home() {
                 <p>Centraliza WhatsApp, clientes y ventas.</p>
                 <a
                   className="cta-secondary"
-                  href="https://wa.me/521XXXXXXXXXX"
+                  href="https://wa.me/5215656196693"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
